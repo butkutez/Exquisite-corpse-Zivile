@@ -1,6 +1,7 @@
-\# The Mysterious Forest
+# The Mysterious Forest
 
 
 
-\## A collaborative story about an ancient forest full of secrets.
+A collaborative story about an ancient forest full of secrets.
+
 
