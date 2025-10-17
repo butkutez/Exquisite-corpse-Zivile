@@ -2,8 +2,6 @@
 
 ![The Mysterious Forest](https://cdn.pixabay.com/photo/2018/01/31/07/36/secret-3120483\_1280.jpg)
 
-A collaborative story where each contributor adds a piece — without seeing the full tale.
-
 ---
 
 ## :last_quarter_moon: **What Is This?**
@@ -26,6 +24,7 @@ Add three sentences to continue the story.
 A faint mist curled around the gnarled roots, hiding secrets that whispered in the wind.
 Somewhere deeper in the shadows, a pair of glowing eyes watched silently, unmoving. 
 An old, crumbling path appeared ahead, beckoning with the promise of discovery and danger alike.
+
 
 
 
