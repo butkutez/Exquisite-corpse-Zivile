@@ -25,12 +25,17 @@ A faint mist curled around the gnarled roots, hiding secrets that whispered in t
 Somewhere deeper in the shadows, a pair of glowing eyes watched silently, unmoving. 
 An old, crumbling path appeared ahead, beckoning with the promise of discovery and danger alike.
 
-------------------
 
 @Hamideh <br>
 The soft glow of dawn painted the horizon in shades of gold and pink.  
 Somewhere, a bird sang a song of beginnings, breaking the long silence.  
 Hope stirred gently in the hearts of those who dared to dream again.
+
+@Zivile <br>
+A lone traveler stepped onto the path.
+Mist curled around their boots.
+The eyes in the dark began to follow.
+
 
 
 
