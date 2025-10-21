@@ -31,12 +31,11 @@ The soft glow of dawn painted the horizon in shades of gold and pink.
 Somewhere, a bird sang a song of beginnings, breaking the long silence.  
 Hope stirred gently in the hearts of those who dared to dream again.
 
+
 @Zivile <br>
 A lone traveler stepped onto the path.
 Mist curled around their boots.
 The eyes in the dark began to follow.
-
-
 
 
 
